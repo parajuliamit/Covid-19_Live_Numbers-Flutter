@@ -6,4 +6,5 @@ Covid-19 app to display live infected, deaths and recovered cases in numbers.
 
 This app uses rapid-api's covid-19 api to fetch the numbers and display the live data. 
 
-
+## Screenshot
+![screenshot](https://github.com/parajuliamit/Covid-19_Live_Numbers-Flutter/blob/master/screenshot.PNG)

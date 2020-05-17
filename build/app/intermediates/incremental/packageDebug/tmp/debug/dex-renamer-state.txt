@@ -1,0 +1,4 @@
+#Sun May 17 11:12:08 NPT 2020
+base.0=C\:\\Users\\paraj\\Documents\\Project\\covid\\build\\app\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
